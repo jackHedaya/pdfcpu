@@ -22,11 +22,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/font"
-	pdffont "github.com/pdfcpu/pdfcpu/pkg/pdfcpu/font"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/primitives"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jackHedaya/pdfcpu/pkg/font"
+	pdffont "github.com/jackHedaya/pdfcpu/pkg/pdfcpu/font"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/primitives"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

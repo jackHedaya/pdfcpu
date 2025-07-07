@@ -20,11 +20,11 @@ import (
 	"io"
 	"os"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/create"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jackHedaya/pdfcpu/pkg/log"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/create"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/model"
 	"github.com/pkg/errors"
 )
 

@@ -20,8 +20,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

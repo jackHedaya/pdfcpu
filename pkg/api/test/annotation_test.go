@@ -21,11 +21,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/api"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jackHedaya/pdfcpu/pkg/api"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/color"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/types"
 )
 
 var textAnn model.AnnotationRenderer = model.NewTextAnnotation(

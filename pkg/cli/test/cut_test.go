@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/pdfcpu/pdfcpu/pkg/cli"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jackHedaya/pdfcpu/pkg/cli"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/types"
 )
 
 func testCut(t *testing.T, msg, inFile, outFile string, unit types.DisplayUnit, cutConf string) {

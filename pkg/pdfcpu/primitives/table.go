@@ -22,12 +22,12 @@ import (
 	"math"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/color"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/draw"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/format"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/matrix"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/types"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/color"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/draw"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/format"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/matrix"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/types"
 	"github.com/pkg/errors"
 )
 

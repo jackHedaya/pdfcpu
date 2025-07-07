@@ -22,8 +22,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/pdfcpu/pdfcpu/pkg/log"
-	"github.com/pdfcpu/pdfcpu/pkg/pdfcpu/model"
+	"github.com/jackHedaya/pdfcpu/pkg/log"
+	"github.com/jackHedaya/pdfcpu/pkg/pdfcpu/model"
 	"github.com/pkg/errors"
 )
 
